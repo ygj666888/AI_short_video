@@ -11,9 +11,9 @@ export default defineConfig({
   },
   clientLoader: {},
   exportStatic: {},
-  base: '/ai/',
+  base: '/AI_short_video/',
   ignoreMomentLocale: true,
-  publicPath: '/ai/',
+  publicPath: '/AI_short_video/',
   routes: [
     {
       path: '/',
