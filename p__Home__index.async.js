@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[371],{41936:function(s,u,n){n.r(u),n.d(u,{default:function(){return r}});var a=n(90930),t={container:"container___ulS8A"},e=n(85893),o=function(){return(0,e.jsx)(a._z,{ghost:!0,children:(0,e.jsx)("div",{className:t.container,children:"\u8FD9 \u4E00\u4E2A AI \u7684\u4E16\u754C"})})},r=o}}]);
